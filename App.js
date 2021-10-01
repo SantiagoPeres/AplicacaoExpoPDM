@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 import { StyleSheet, Text, View, Button } from 'react-native';
 
 const App = () => {
-  return (
+  return ( 
     <View style={styles.container}>
       <Text style={styles.text}>Prova PDM - Santiago Loureço Galhardo Peres</Text>
       <Counter />
